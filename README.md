@@ -64,12 +64,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-sajjadzakirr&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🐍 &nbsp;Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-sajjadzakirr&theme=radical" alt="Contribution Graph" />
-</div>
-
 ## 🤝🏻 &nbsp;Connect with Me
 
 <div class="social-badges">
