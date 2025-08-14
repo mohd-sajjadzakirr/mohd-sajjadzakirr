@@ -60,7 +60,7 @@
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohd-sjjadzakirr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohd-sajjadzakirr&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-sajjadzakirr&theme=radical" alt="GitHub Streak" />
 </div>
 
