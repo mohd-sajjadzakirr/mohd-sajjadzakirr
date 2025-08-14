@@ -9,7 +9,7 @@
      <li>👀 <strong>Interests:</strong> Passionate about software development, web technologies, and creating innovative solutions.</li>
 <li>🌱 <strong>Learning:</strong> Continuously expanding skills in modern web development, cloud technologies, and emerging frameworks.</li>
 <li>💼 <strong>Skills:</strong> Experienced in full-stack development, problem-solving, and building scalable applications.</li>
-<li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:sajjadkhantu@gmail.com">sajjadkhantu@gmail.com</a> or call <a href="tel:+917579993002">+91 7579993002</a>.</li>
+<li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:sajjadkhantu@gmail.com">sajjadkhantu@gmail.com</a>.</li>
     </ul>
   </div>
 
