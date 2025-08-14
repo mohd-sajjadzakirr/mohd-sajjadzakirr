@@ -79,24 +79,5 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="tel:+917579993002" target="_blank">
-  <img alt="Phone" src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
 </div>
-
-## 📁 &nbsp;Featured Projects
-
-<div align="center">
-  <p>🚀 Check out my GitHub repositories for more projects!</p>
-  <a href="https://github.com/mohd-sajjadzakirr?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohd-sajjadzakirr&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
 
